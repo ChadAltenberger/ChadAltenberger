@@ -1,4 +1,4 @@
-![](images/CA-Code.png)
+![](images/CA-Code-Small.png)
 
 Hello, I'm Chad Altenberger.
 
